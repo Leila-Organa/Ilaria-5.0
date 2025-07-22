@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Se usi Ilaria 5.0 nel tuo progetto, cita questa fonte:"
+title: "Ilaria 5.0: Modular Behavioral Engine for Epistemic and Intentional Systems"
+authors:
+  - family-names: Leila
+    name: Leila
+    given-names: ""
+date-released: 2025-07-22
+version: 5.0
+license: CC-BY-4.0
+repository-code: https://github.com/Leila-Organa/ilaria-5.0
+url: https://github.com/Leila-Organa/ilaria-5.0
+abstract: >
+  Ilaria 5.0 is a modular cognitive-behavioral framework composed of 19 interdependent functions (F1–F19) designed to simulate disambiguation, epistemic validation, inferential synthesis, and intentional continuity in human-like reasoning systems.
